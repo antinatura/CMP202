@@ -20,5 +20,5 @@
 Multithreaded calculation of the mandelbrot set where the number of threads to launch can be changed by the user.
 
 1. **main.cpp** contains the main thread. User input is obtained and basic input validation is performed. The mandelbrot object is created, threads are launched, and the timing code is executed from here.
-2. **mandelbrot.cpp** and **mandelbrot.h** contain the member variables and functions (including thread functions) of the mandelbrot class
-3.
+2. **mandelbrot.cpp** and **mandelbrot.h** contain the member variables and functions (including thread functions) of the mandelbrot class.
+3. **mandelbrot.PNG** contains a sample of how the .tga file the program outputs should look.
